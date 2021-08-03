@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+- 👀 I’m interested in Vue and Node.  
+- 🌱 I’m a student at present 
+- My blog is https://www.haohaostudy.xyz
+- My blog is [的博客]( https://www.haohaostudy.xyz).
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Haohao-555&show_icons=true&theme=dracula)
 
