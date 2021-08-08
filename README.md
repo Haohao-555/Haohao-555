@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 👀 I’m interested in Vue and Node.  
-- 🌱 I’m a student at present 
+- 🌱 I’m currently a junior student 
 - ⚡ My blog is [усил的博客](https://haohaostudy.xyz).
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Haohao-555&show_icons=true&theme=dracula)
