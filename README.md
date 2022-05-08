@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->  
 - 🌱 I’m currently a junior student 
-- ⚡ My blog is [усил的博客](https://haohaostudy.xyz).
+- ⚡ My blog is [усил的博客](https://hhmax.xyz).
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Haohao-555&show_icons=true&theme=dracula)
 
