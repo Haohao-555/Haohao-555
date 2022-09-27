@@ -13,13 +13,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - 🌱 I’m currently a junior student 
-- ⚡ My blog is [усил的博客](http://39.104.61.32/blog).
+- ⚡
 -->  
 Welcome, You are my ![](https://profile-counter.glitch.me/haohao-555/count.svg) Visitor Count visitor, Thank You!🎉🎉
 
 ### Hi there 👋, I'm hao
 
 - 🔭 I’m currently working on Guangzhou
+- My blog is [усилの博客](http://39.104.61.32/blog).
 - 🌱 base skills：
 ![](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)&nbsp;
 ![](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)&nbsp;
