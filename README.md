@@ -12,12 +12,23 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->  
 - 🌱 I’m currently a junior student 
 - ⚡ My blog is [усил的博客](http://39.104.61.32/blog).
+-->  
 
-|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Haohao-555&layout=compact)](https://github.com/anuraghazra/github-readme-stats)![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Haohao-555&show_icons=true&theme=dark)|
-|-------------------------------------------------------------------------------------------------------|
+
+
+<table border="0px">
+   <tr>
+      <td>
+         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haohao-555&layout=compact&theme=dark" />
+         <img src="https://github-readme-stats.vercel.app/api?username=Haohao-555&show_icons=true&theme=dark" />
+      </td>
+   </tr>
+</table>
+
+
+
 
 ![](https://activity-graph.herokuapp.com/graph?username=haohao-555&theme=vue)
 
