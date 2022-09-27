@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 
 ![](https://activity-graph.herokuapp.com/graph?username=haohao-555&theme=vue)
 
- 
+ ![](https://stats.justsong.cn/api/csdn?id=weixin_44659458&theme=dark)
+
 
 
