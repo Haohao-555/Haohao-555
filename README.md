@@ -1,4 +1,4 @@
-### Hi there 👋
+
 <!--
 **Haohao-555/Haohao-555** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - 🌱 I’m currently a junior student 
 - ⚡ My blog is [усил的博客](http://39.104.61.32/blog).
 -->  
+![](https://profile-counter.glitch.me/haohao-555/count.svg)
+### Hi there 👋, I'm hao
 
 
 
@@ -25,7 +27,6 @@ Here are some ideas to get you started:
 
 ![](https://activity-graph.herokuapp.com/graph?username=haohao-555&theme=vue)
 
- ![](https://stats.justsong.cn/api/csdn?id=weixin_44659458&theme=dark)
-
-
+![](https://stats.justsong.cn/api/csdn?id=weixin_44659458&theme=dark)
+![](https://stats.justsong.cn/api/juejin?id=1258302989143437&theme=dark)
 
