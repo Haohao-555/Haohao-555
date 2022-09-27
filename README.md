@@ -18,17 +18,10 @@ Here are some ideas to get you started:
 
 
 
-<table border="0px">
-   <tr>
-      <td>
-         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haohao-555&layout=compact&theme=dark" />
-         <img src="https://github-readme-stats.vercel.app/api?username=Haohao-555&show_icons=true&theme=dark" />
-      </td>
-   </tr>
-</table>
 
 
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Haohao-555&layout=compact&theme=dark)
+![](https://github-readme-stats.vercel.app/api?username=Haohao-555&show_icons=true&theme=dark)
 
 ![](https://activity-graph.herokuapp.com/graph?username=haohao-555&theme=vue)
 
