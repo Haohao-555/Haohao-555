@@ -4,7 +4,7 @@ Welcome, You are my ![](https://profile-counter.glitch.me/haohao-555/count.svg) 
 # 👀 Hello 
 ✍️大家好，我是小黄同学，22届软件工程毕业的，就读于中山大学南方学院。目前在广州一家从事内网安全的公司就职，岗位是 Web 开发攻城狮。主要负责的业务：
 - 👉🏻 维护公司内部JIRA辅助系统
-- 👉🏻 自建组件库（原生能力结合 <a href="https://sciter.com">sciter</a> ）
+- 👉🏻 自建组件库（原生能力结合 <a href="https://sciter.com" target="_blank">sciter</a> ）
 - 👉🏻 负责安全桌面前端展示
 
 
@@ -38,25 +38,27 @@ Welcome, You are my ![](https://profile-counter.glitch.me/haohao-555/count.svg) 
 - ✍🏻 currently learning：
 ![](https://img.shields.io/badge/-React-3e6a45?style=flat)&nbsp;
 
-## 🐤 warehouse
 <div align="center">
-<a href="https://github.com/Haohao-555/vue3-blog">
+<a href="https://github.com/Haohao-555/vue3-blog" target="_blank">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Haohao-555&repo=vue3-blog&theme=dark&bg_color=0d1117&hide_border=true" /></a>
-<a href="https://github.com/Haohao-555/interview">
+<a href="https://github.com/Haohao-555/interview" target="_blank">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Haohao-555&repo=interview&theme=dark&bg_color=0d1117&hide_border=true" /></a>
 </div>
+
+## 🐤 project
 <div align="center">
 <table>
   <tr>
     <th>线上项目</th>
     <th>手机端项目</th>
     <th>小程序端项目</th>
+    <th>仿第三方网页</th>
     <th>正搭建中项目</th>
   </tr>
    <tr>
      <td>
-       <a href="http://39.104.61.32/pc-music" tagert="_blank">PC端云音乐项目</a><br/>
-       <a href="http://39.104.61.32/hc" tagert="_blank">数据可视化</a><br>
+       <a href="http://39.104.61.32/pc-music" target="_blank">PC端云音乐项目</a><br/>
+       <a href="http://39.104.61.32/hc" target="_blank">数据可视化</a><br>
      </td>
      <td>
        <div align="center">
@@ -71,7 +73,13 @@ Welcome, You are my ![](https://profile-counter.glitch.me/haohao-555/count.svg) 
        </div>
      </td>
      <td>
-       <a href="http://39.104.61.32/vue3-blog" tagert="_blank">个人博客</a></br>
+        <a href="http://39.104.61.32/demo/qq/index.html" target="_blank">QQ音乐</a><br/>
+        <a href="http://39.104.61.32/demo/qu/index.html" target="_blank">趣学网</a><br/>
+        <a href="http://39.104.61.32/demo/wang/index.html" target="_blank">王者荣耀</a><br/>
+        <a href="http://39.104.61.32/demo/xiao/index.html" target="_blank">王者荣耀</a><br/>
+     </td>
+     <td>
+       <a href="http://39.104.61.32/vue3-blog" target="_blank">个人博客</a></br>
      </td>
   </tr>
 </table>
@@ -103,9 +111,9 @@ Welcome, You are my ![](https://profile-counter.glitch.me/haohao-555/count.svg) 
 </div>
 
 ## 🧮 CSDN
-<a href="https://blog.csdn.net/weixin_44659458/category_11715503.html">桌面应用sciter专栏</a>
-<a href="https://blog.csdn.net/weixin_44659458/category_11329967.html">实习</a>
-<a href="https://blog.csdn.net/weixin_44659458/category_11885011.html">通用后台解决方案</a>
-<a href="https://blog.csdn.net/weixin_44659458/category_11417879.html">PC端云音乐项目总结</a>
-<a href="https://blog.csdn.net/weixin_44659458/category_10978961.html">数据结构算法</a>
-<a href="https://blog.csdn.net/weixin_44659458/category_10526485.html">微信小程序</a> 
+<a href="https://blog.csdn.net/weixin_44659458/category_11715503.html" target="_blank">桌面应用sciter专栏</a><br/>
+<a href="https://blog.csdn.net/weixin_44659458/category_11329967.html" target="_blank">实习</a><br/>
+<a href="https://blog.csdn.net/weixin_44659458/category_11885011.html" target="_blank">通用后台解决方案</a><br/>
+<a href="https://blog.csdn.net/weixin_44659458/category_11417879.html" target="_blank">PC端云音乐项目总结</a><br/>
+<a href="https://blog.csdn.net/weixin_44659458/category_10978961.html" target="_blank">数据结构算法</a><br/>
+<a href="https://blog.csdn.net/weixin_44659458/category_10526485.html" target="_blank">微信小程序</a><br/>
