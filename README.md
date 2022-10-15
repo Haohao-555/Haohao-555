@@ -47,8 +47,8 @@ Welcome, You are my ![](https://profile-counter.glitch.me/haohao-555/count.svg) 
 
 ### 👉🏻 languages And  Stats 
 <div align="center"> 
-  <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haohao-555&layout=compact&theme=dark" /> 
-  <img height="195px" src="https://github-readme-stats.vercel.app/api?username=Haohao-555&show_icons=true&theme=dark" />
+  <img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haohao-555&layout=compact&theme=dark" /> 
+  <img height="165px" src="https://github-readme-stats.vercel.app/api?username=Haohao-555&show_icons=true&theme=dark" />
 </div>
 <br/>
 
@@ -62,6 +62,5 @@ Welcome, You are my ![](https://profile-counter.glitch.me/haohao-555/count.svg) 
 
 <div align="center">
   <img height="195px" src="https://stats.justsong.cn/api/csdn?id=weixin_44659458&theme=dark" /> 
-  <img height="195px" src="https://stats.justsong.cn/api/juejin?id=1258302989143437&theme=dark" /> 
   <img height="195px" src="https://stats.justsong.cn/api/leetcode?id=amazing-maxwellmfq&theme=dark" /> 
 </div>
