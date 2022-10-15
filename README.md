@@ -101,3 +101,11 @@ Welcome, You are my ![](https://profile-counter.glitch.me/haohao-555/count.svg) 
   <img height="195px" src="https://stats.justsong.cn/api/csdn?id=weixin_44659458&theme=dark" /> 
   <img height="195px" src="https://stats.justsong.cn/api/leetcode?id=amazing-maxwellmfq&theme=dark" /> 
 </div>
+
+## 🧮 CSDN
+<a href="https://blog.csdn.net/weixin_44659458/category_11715503.html">桌面应用sciter专栏</a>
+<a href="https://blog.csdn.net/weixin_44659458/category_11329967.html">实习</a>
+<a href="https://blog.csdn.net/weixin_44659458/category_11885011.html">通用后台解决方案</a>
+<a href="https://blog.csdn.net/weixin_44659458/category_11417879.html">PC端云音乐项目总结</a>
+<a href="https://blog.csdn.net/weixin_44659458/category_10978961.html">数据结构算法</a>
+<a href="https://blog.csdn.net/weixin_44659458/category_10526485.html">微信小程序</a> 
