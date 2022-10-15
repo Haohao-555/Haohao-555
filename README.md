@@ -1,11 +1,15 @@
 
 Welcome, You are my ![](https://profile-counter.glitch.me/haohao-555/count.svg) Visitor Count visitor, Thank You!🎉🎉!
 
-### Hi there 👋, I'm hao
+# 👀 Hello 
+✍️大家好，我是小黄同学，22届软件工程毕业的，就读于中山大学南方学院。目前在广州一家从事内网安全的公司就职，岗位是 Web 开发攻城狮。主要负责的业务：
+- 👉🏻 维护公司内部JIRA辅助系统
+- 👉🏻 自建组件库（原生能力结合 <a href="https://sciter.com">sciter</a> ）
+- 👉🏻 负责安全桌面前端展示
 
-- 🔭 I’m currently working on Guangzhou
-- My blog is [усилの博客](http://39.104.61.32/blog).
-- 🌱 base skills：
+
+## 🧱 skills
+- 🌱 base：
 ![](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)&nbsp;
 ![](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)&nbsp;
 ![](https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff)&nbsp;
@@ -41,18 +45,18 @@ Welcome, You are my ![](https://profile-counter.glitch.me/haohao-555/count.svg) 
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Haohao-555&repo=interview&theme=dark&bg_color=0d1117&hide_border=true" /></a>
 </div>
 
-### 👉🏻 Github Profile Trophy
+## 🏆 Github Profile Trophy
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Haohao-555&theme=gruvbox&margin-w=15&margin-h=15&row=1&column=7&no-bg=true&no-frame=true" /> </div>
 <br/>
 
-### 👉🏻 languages And  Stats 
+## 🌟 languages and  Stats 
 <div align="center"> 
   <img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haohao-555&layout=compact&theme=dark" /> 
   <img height="165px" src="https://github-readme-stats.vercel.app/api?username=Haohao-555&show_icons=true&theme=dark" />
 </div>
 <br/>
 
-### 👉🏻 GitHub streak
+## 📌 GitHub streak
 <div align="center"> 
   <img height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=haohao-555&theme=dark" /> 
 </div>
