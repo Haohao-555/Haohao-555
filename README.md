@@ -38,12 +38,20 @@ Welcome, You are my ![](https://profile-counter.glitch.me/haohao-555/count.svg) 
 - ✍🏻 currently learning：
 ![](https://img.shields.io/badge/-React-3e6a45?style=flat)&nbsp;
 
+## 🐤 warehouse
 <div align="center">
 <a href="https://github.com/Haohao-555/vue3-blog">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Haohao-555&repo=vue3-blog&theme=dark&bg_color=0d1117&hide_border=true" /></a>
 <a href="https://github.com/Haohao-555/interview">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Haohao-555&repo=interview&theme=dark&bg_color=0d1117&hide_border=true" /></a>
 </div>
+<table>
+   <tr>
+     <td>
+       <a href="http://39.104.61.32/pc-music" tagert="_blank">PC端云音乐项目</a>
+     </td>
+  </tr>
+</table>
 
 ## 🏆 Github Profile Trophy
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Haohao-555&theme=gruvbox&margin-w=15&margin-h=15&row=1&column=7&no-bg=true&no-frame=true" /> </div>
