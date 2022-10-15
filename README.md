@@ -45,10 +45,13 @@ Welcome, You are my ![](https://profile-counter.glitch.me/haohao-555/count.svg) 
 <a href="https://github.com/Haohao-555/interview">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Haohao-555&repo=interview&theme=dark&bg_color=0d1117&hide_border=true" /></a>
 </div>
+<div align="center">
 <table>
   <tr>
     <th>线上项目</th>
-    <th>搭建中项目</th>
+    <th>手机端项目</th>
+    <th>小程序端项目</th>
+    <th>正搭建中项目</th>
   </tr>
    <tr>
      <td>
@@ -56,10 +59,24 @@ Welcome, You are my ![](https://profile-counter.glitch.me/haohao-555/count.svg) 
        <a href="http://39.104.61.32/hc" tagert="_blank">数据可视化</a><br>
      </td>
      <td>
+       <div align="center">
+          1024社区<br/></br>
+          <img width="120px" height="120px" src="https://s2.loli.net/2021/12/27/Ic5byRY4mgkshqO.png"/>
+       </div>
+     </td>
+     <td>
+      <div align="center">
+          云音乐小程序</br></br>
+          <img width="120px" height="120px" src="https://i.loli.net/2021/11/19/X19GobuJDZ2gvry.jpg"/>
+       </div>
+     </td>
+     <td>
        <a href="http://39.104.61.32/vue3-blog" tagert="_blank">个人博客</a></br>
      </td>
   </tr>
 </table>
+</div>
+
 
 ## 🏆 Github Profile Trophy
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Haohao-555&theme=gruvbox&margin-w=15&margin-h=15&row=1&column=7&no-bg=true&no-frame=true" /> </div>
