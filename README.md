@@ -52,20 +52,26 @@ Welcome, You are my ![](https://profile-counter.glitch.me/haohao-555/count.svg) 
 
 
 ### 👉🏻 Github Profile Trophy
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Haohao-555&margin-w=15&margin-h=15&no-bg=true&no-frame=true" /> </div>
-<hr/>
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Haohao-555&margin-w=15&margin-h=15&row=1&column=7&no-bg=true&no-frame=true" /> </div>
+<br/>
 
-###  👉🏻 languages And  Stats 👈🏻
+### 👉🏻 languages And  Stats 
 <div align="center"> 
   <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haohao-555&layout=compact&theme=dark" /> 
   <img height="195px" src="https://github-readme-stats.vercel.app/api?username=Haohao-555&show_icons=true&theme=dark" />
 </div>
+<br/>
 
-### GitHub streak
-![](https://github-readme-streak-stats.herokuapp.com/?user=haohao-555)
+### 👉🏻 GitHub streak
+<div align="center"> 
+  <img height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=haohao-555&theme=dark" /> 
+</div>
+<br/>
 
-![](https://activity-graph.herokuapp.com/graph?username=haohao-555&theme=vue)
+![](https://activity-graph.herokuapp.com/graph?username=haohao-555&theme=xcode&bg_color=FF000000&hide_border=true)
 
-![](https://stats.justsong.cn/api/csdn?id=weixin_44659458&theme=dark)
-![](https://stats.justsong.cn/api/juejin?id=1258302989143437&theme=dark)
-![](https://stats.justsong.cn/api/leetcode?id=amazing-maxwellmfq&theme=dark)
+<div align="center">
+  <img height="195px" src="https://stats.justsong.cn/api/csdn?id=weixin_44659458&theme=dark" /> 
+  <img height="195px" src="https://stats.justsong.cn/api/juejin?id=1258302989143437&theme=dark" /> 
+  <img height="195px" src="https://stats.justsong.cn/api/leetcode?id=amazing-maxwellmfq&theme=dark" /> 
+</div>
