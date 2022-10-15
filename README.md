@@ -36,7 +36,7 @@ Welcome, You are my ![](https://profile-counter.glitch.me/haohao-555/count.svg) 
 
 
 ### 👉🏻 Github Profile Trophy
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Haohao-555&margin-w=15&margin-h=15&row=1&column=7&no-bg=true&no-frame=true" /> </div>
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Haohao-555&theme=gruvbox&margin-w=15&margin-h=15&row=1&column=7&no-bg=true&no-frame=true" /> </div>
 <br/>
 
 ### 👉🏻 languages And  Stats 
