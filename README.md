@@ -76,7 +76,7 @@ Welcome, You are my ![](https://profile-counter.glitch.me/haohao-555/count.svg) 
         <a href="http://39.104.61.32/demo/qq/index.html" target="_blank">QQ音乐</a><br/>
         <a href="http://39.104.61.32/demo/qu/index.html" target="_blank">趣学网</a><br/>
         <a href="http://39.104.61.32/demo/wang/index.html" target="_blank">王者荣耀</a><br/>
-        <a href="http://39.104.61.32/demo/xiao/index.html" target="_blank">王者荣耀</a><br/>
+        <a href="http://39.104.61.32/demo/xiao/index.html" target="_blank">小米商城</a><br/>
      </td>
      <td>
        <a href="http://39.104.61.32/vue3-blog" target="_blank">个人博客</a></br>
