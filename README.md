@@ -50,11 +50,18 @@ Welcome, You are my ![](https://profile-counter.glitch.me/haohao-555/count.svg) 
 - ✍🏻 currently learning：
 ![](https://img.shields.io/badge/-React-3e6a45?style=flat)&nbsp;
 
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haohao-555&layout=compact&theme=dark" /> </div>
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Haohao-555&show_icons=true&theme=dark" /> </div>
 
+### 👉🏻 Github Profile Trophy
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Haohao-555&margin-w=15&margin-h=15&no-bg=true&no-frame=true" /> </div>
+<hr/>
 
+###  👉🏻 languages And  Stats 👈🏻
+<div align="center"> 
+  <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haohao-555&layout=compact&theme=dark" /> 
+  <img height="195px" src="https://github-readme-stats.vercel.app/api?username=Haohao-555&show_icons=true&theme=dark" />
+</div>
 
+### GitHub streak
 ![](https://github-readme-streak-stats.herokuapp.com/?user=haohao-555)
 
 ![](https://activity-graph.herokuapp.com/graph?username=haohao-555&theme=vue)
