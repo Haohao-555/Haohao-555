@@ -1,13 +1,5 @@
-<!-- 动态打字效果 -->
-<h1 align="center">
-  <a href="https://sunguoqi.com/">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);Welcome, You are my!&center=true&size=27">
-    <img src="https://profile-counter.glitch.me/haohao-555/count.svg" />
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);Visitor Count visitor, Thank You!🎉🎉!&center=true&size=27">
-  </a>
-</h1>
 
-
+Welcome, You are my ![](https://profile-counter.glitch.me/haohao-555/count.svg) Visitor Count visitor, Thank You!🎉🎉!
 
 ### Hi there 👋, I'm hao
 
