@@ -46,9 +46,17 @@ Welcome, You are my ![](https://profile-counter.glitch.me/haohao-555/count.svg) 
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Haohao-555&repo=interview&theme=dark&bg_color=0d1117&hide_border=true" /></a>
 </div>
 <table>
+  <tr>
+    <th>线上项目</th>
+    <th>搭建中项目</th>
+  </tr>
    <tr>
      <td>
-       <a href="http://39.104.61.32/pc-music" tagert="_blank">PC端云音乐项目</a>
+       <a href="http://39.104.61.32/pc-music" tagert="_blank">PC端云音乐项目</a><br/>
+       <a href="http://39.104.61.32/hc" tagert="_blank">数据可视化</a><br>
+     </td>
+     <td>
+       <a href="http://39.104.61.32/vue3-blog" tagert="_blank">个人博客</a></br>
      </td>
   </tr>
 </table>
