@@ -116,8 +116,8 @@ Welcome, You are my ![](https://profile-counter.glitch.me/haohao-555/count.svg) 
 
 ## 🐇 social
 <div align="center">
-  <img height="195px" src="https://stats.justsong.cn/api/csdn?id=weixin_44659458&theme=dark" /> 
-  <img height="195px" src="https://stats.justsong.cn/api/leetcode?id=amazing-maxwellmfq&theme=dark" /> 
+  <a href="https://blog.csdn.net/weixin_44659458" target="_blank"><img height="195px" src="https://stats.justsong.cn/api/csdn?id=weixin_44659458&theme=dark" /></a>
+  <a href="https://leetcode.cn/u/amazing-maxwellmfq" target="_blank"><img height="195px" src="https://stats.justsong.cn/api/leetcode?id=amazing-maxwellmfq&theme=dark" /> 
 </div>
 
 ## 🧮 CSDN
