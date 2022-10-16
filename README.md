@@ -39,10 +39,6 @@ Welcome, You are my ![](https://profile-counter.glitch.me/haohao-555/count.svg) 
 ![](https://img.shields.io/badge/-React-3e6a45?style=flat)&nbsp;
 
 <div align="center">
-   <img src="https://metrics.lecoq.io/Haohao-555?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai" />
-</div>
-<br/>
-<div align="center">
 <a href="https://github.com/Haohao-555/vue3-blog" target="_blank">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Haohao-555&repo=vue3-blog&theme=dark&bg_color=0d1117&hide_border=true" /></a>
 <a href="https://github.com/Haohao-555/interview" target="_blank">
@@ -98,6 +94,12 @@ Welcome, You are my ![](https://profile-counter.glitch.me/haohao-555/count.svg) 
 <div align="center"> 
   <img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haohao-555&layout=compact&theme=dark" /> 
   <img height="165px" src="https://github-readme-stats.vercel.app/api?username=Haohao-555&show_icons=true&theme=dark" />
+</div>
+<br/>
+
+## 🎈 Action
+<div align="center">
+   <img src="https://metrics.lecoq.io/Haohao-555?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai" />
 </div>
 <br/>
 
