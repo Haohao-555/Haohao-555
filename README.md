@@ -5,7 +5,7 @@ Welcome, You are my ![](https://profile-counter.glitch.me/haohao-555/count.svg) 
 ✍️大家好，我是小黄同学，22届软件工程毕业的，就读于中山大学南方学院。目前在广州一家从事内网安全的公司就职，岗位是 Web 开发攻城狮。主要负责的业务：
 - 👉🏻 维护公司内部JIRA辅助系统
 - 👉🏻 维护网关系统
-- 👉🏻 自建组件库（原生能力结合 <a href="https://sciter.com" target="_blank">sciter</a> ）
+- 👉🏻 自建 <a href="https://github.com/Haohao-555/sciter-component" target="_blank"> sciter 组件库</a>
 - 👉🏻 负责安全桌面前端展示
 
 
