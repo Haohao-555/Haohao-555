@@ -96,22 +96,11 @@ Welcome, You are my ![](https://profile-counter.glitch.me/haohao-555/count.svg) 
 </div>
 <br/>
 
-## 🎈 Action
-<div align="center">
-   <img src="https://metrics.lecoq.io/Haohao-555?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai" />
-</div>
-<br/>
-
 ## 📌 GitHub streak
 <div align="center"> 
   <img height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=haohao-555&theme=dark" /> 
 </div>
 <br/>
-
-## 🌲GitHub Readme Activity Graph
-<div align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=haohao-555&theme=xcode&bg_color=FF000000&hide_border=true" />
-</div>
 
 ## 🐇 social
 <div align="center">
