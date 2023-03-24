@@ -39,8 +39,8 @@ Welcome, You are my ![](https://profile-counter.glitch.me/haohao-555/count.svg) 
 - ✍🏻 currently learning：
 ![](https://img.shields.io/badge/-React-3e6a45?style=flat)&nbsp;
 
-<div align="center">
-<a href="https://github.com/Haohao-555/interview" target="_blank">
+<div>
+<a href="https://github.com/Haohao-555/qz-admin" target="_blank">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Haohao-555&repo=qz-admin&theme=dark&bg_color=0d1117&hide_border=true" /></a>
 </div>
 
