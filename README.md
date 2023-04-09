@@ -2,11 +2,7 @@
 Welcome, You are my ![](https://profile-counter.glitch.me/haohao-555/count.svg) Visitor Count visitor, Thank You!🎉🎉!
 
 # 👀 Hello 
-✍️大家好，我是小黄同学，22届软件工程毕业的，就读于中山大学南方学院。目前在广州一家从事内网安全的公司就职，岗位是 Web 开发攻城狮。主要负责的业务：
-- 👉🏻 维护公司内部JIRA辅助系统
-- 👉🏻 维护网关系统
-- 👉🏻 自建 <a href="https://github.com/Haohao-555/sciter-component" target="_blank"> sciter 组件库</a>
-- 👉🏻 负责安全桌面前端展示
+✍️大家好，我是小黄同学，22届软件工程毕业的，就读于中山大学南方学院。目前在广州一家从事内网安全的公司就职，岗位是 Web 开发攻城狮
 
 
 ## 🧱 skills
@@ -89,16 +85,10 @@ Welcome, You are my ![](https://profile-counter.glitch.me/haohao-555/count.svg) 
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Haohao-555&theme=gruvbox&margin-w=15&margin-h=15&row=1&column=7&no-bg=true&no-frame=true" /> </div>
 <br/>
 
-## 🌟 languages and  Stats 
+## 🌟 streak and  Stats 
 <div align="center"> 
-  <img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haohao-555&layout=compact&theme=dark" /> 
   <img height="165px" src="https://github-readme-stats.vercel.app/api?username=Haohao-555&show_icons=true&theme=dark" />
-</div>
-<br/>
-
-## 📌 GitHub streak
-<div align="center"> 
-  <img height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=haohao-555&theme=dark" /> 
+  <img height="165px" src="https://github-readme-streak-stats.herokuapp.com/?user=haohao-555&theme=dark" /> 
 </div>
 <br/>
 
