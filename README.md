@@ -44,45 +44,6 @@ Welcome, You are my ![](https://profile-counter.glitch.me/haohao-555/count.svg) 
 </div>
 
 ## 🐤 project
-<div align="center">
-<table>
-  <tr>
-    <th>线上项目</th>
-    <th>手机端项目</th>
-    <th>小程序端项目</th>
-    <th>仿第三方网页</th>
-    <th>正搭建中项目</th>
-  </tr>
-   <tr>
-     <td>
-       <li><a href="http://39.104.61.32/pc-music" target="_blank">PC端云音乐项目</a></li><br/>
-       <li><a href="http://39.104.61.32/hc" target="_blank">数据可视化</a></li><br>
-     </td>
-     <td>
-       <div align="center">
-          1024社区<br/></br>
-          <img width="120px" height="120px" src="https://s2.loli.net/2021/12/27/Ic5byRY4mgkshqO.png"/>
-       </div>
-     </td>
-     <td>
-      <div align="center">
-          云音乐小程序</br></br>
-          <img width="120px" height="120px" src="https://i.loli.net/2021/11/19/X19GobuJDZ2gvry.jpg"/>
-       </div>
-     </td>
-     <td>
-        <li><a href="http://39.104.61.32/demo/qq/index.html" target="_blank">QQ音乐</a></li>
-        <li><a href="http://39.104.61.32/demo/qu/index.html" target="_blank">趣学网</a></li>
-        <li><a href="http://39.104.61.32/demo/wang/index.html" target="_blank">王者荣耀</a></li>
-        <li><a href="http://39.104.61.32/demo/xiao/index.html" target="_blank">小米商城</a></li>
-     </td>
-     <td>
-       <a href="http://39.104.61.32/vue3-blog" target="_blank">个人博客</a></br>
-     </td>
-  </tr>
-</table>
-</div>
-
 
 ## 🏆 Github Profile Trophy
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Haohao-555&theme=gruvbox&margin-w=15&margin-h=15&row=1&column=7&no-bg=true&no-frame=true" /> </div>
